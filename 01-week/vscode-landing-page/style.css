@@ -1,0 +1,321 @@
+body {
+    background-color: #0e0e0e;
+}
+
+.pad{
+    padding-inline: 20px;
+    text-decoration: none;
+}
+
+.dlink{
+    padding-inline: 10px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    border: 2px;
+    border-style: solid;
+}
+
+.hero-background{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.hero-background img {
+    border-radius: 24px;
+}
+
+.video{
+    position: absolute;
+    top: 13%;
+    border-radius: 12px;
+    
+}
+
+.replay-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    
+}
+
+.replay-btn {
+    font-size: larger;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.replay-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.columns {
+    display: flex;
+    justify-content: center;
+    margin-inline: 300px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.three-columns {
+    border-style: solid;
+    border-radius: 10px;
+    padding-inline: 15px;
+    
+}
+
+#second-col {
+    margin-inline: 35px;
+}
+
+.three-columns img {
+    width: 350px;
+}
+
+.copilot {
+    display: flex;
+    justify-content: center;
+    margin-inline: 300px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+.activate h2 {
+    
+    right: 160px;
+    position: relative;
+
+}
+
+
+.credit p {
+    padding-bottom: 5px;
+}
+.credit a {
+    border-style: solid;
+    padding: 7px;
+    border-radius: 5px;
+    
+}
+
+.cf {
+    display: flex;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+
+.cf-col h2 {
+    font-size: 30px;
+}
+
+.cf-col p {
+    font-size: 18px;
+    padding-right: 150px;
+}
+
+
+.cf-image img{
+    
+    border-radius: 20px;
+    
+}
+
+
+.ce {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+.ce-col {
+    
+    padding-top: 85px;
+}
+
+.ce-col h2 {
+    font-size: 30px;
+}
+
+.ce-col p {
+    font-size: 18px;
+    padding-right: 150px;
+}
+
+.ce-image img {
+    border-radius: 20px;
+    
+}
+
+
+.cwe {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+.cwe-text {
+    padding-right: 90px;
+    padding-top: 70px;
+}
+
+.cwe-text h2 {
+    font-size: 30px;
+}
+
+.cwe-text p {
+    font-size: 18px;
+    padding-right: 250px;
+}
+
+
+
+.ext-list {
+    display: flex;  
+    justify-content: space-evenly;
+     
+}
+
+.div-a img {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+
+.div-a a {
+    display: flex;
+    justify-content: space-between;
+   
+    margin-left: 70px;
+    padding: 15px;
+}
+
+.cial {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+.cial-images {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 30px;
+    border-style: solid;
+    
+}
+
+.cial-images img {
+    margin: 20px;
+    border-style: solid;
+}
+
+.fc {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+
+
+.fc-text h2 {
+    font-size: 30px;
+}
+
+.fc-text p {
+    font-size: 18px;
+    padding-right: 150px;
+}
+
+
+
+.fc-text img {
+    border-radius: 20px;
+    
+}
+
+
+.ca {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 300px;
+    margin-top: 90px;
+}
+
+.ca h2 {
+    font-size: 30px;
+}
+
+.ca-text p {
+    font-size: 18px;
+    padding-right: 150px;
+}
+
+.ca-image img {
+    border-radius: 20px;
+}
+
+
+.cwrf {
+    margin-inline: 300px;
+    margin-top: 90px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+}
+
+.cwrf h2 {
+    font-size: 30px;
+}
+.cwrf p {
+    margin-top: -9px;
+    
+    margin-inline: 365px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.feature-grid {
+    margin-top: 90px;
+    margin-inline: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.feature-grid a {
+    border-style: solid;
+}
+
+.footer {
+    margin-top: 90px;
+    margin-inline: 300px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.policy {
+    margin-top: 10px;
+    margin-inline: 300px;
+    display: flex;
+    
+    margin-bottom: 100px;
+
+}
+
+.policy a {
+    
+    margin-right: 22px;
+    text-decoration: none;
+}
